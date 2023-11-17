@@ -1,4 +1,4 @@
-# stockstop-web-app
+# StockStop-web-app
 
 This is a web application called StockStop, with the purpose of allowing users to view detailed information on the companies listed on the NASDAQ-100.
 
