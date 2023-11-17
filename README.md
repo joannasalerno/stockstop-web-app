@@ -1,8 +1,11 @@
 # stockstop-web-app
+
 This is a web application called StockStop, with the purpose of allowing users to view detailed information on the companies listed on the NASDAQ-100.
 
 ### How to Run:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 In the project directory, you will first need to run:
 
 #### `npm install`
