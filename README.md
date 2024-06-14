@@ -16,7 +16,7 @@ This will install the required dependencies for the project (in a folder called 
 
 This should open the project in a browser window. If a browser window does not automatically open, go to http://localhost:3000 to view the project.
 
-Note: For full applciation functionality, you will need to create API keys for the following:
+Note: For full application functionality, you will need to create API keys for the following:
 
 - [Alpha Vantage](https://www.alphavantage.co/documentation/)
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs)
